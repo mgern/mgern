@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mgern
 - 👀 I’m interested in Networks and elaborate solutions for small problems
 - 🌱 I’m currently learning Networks; Cisco, Junos, HPE, and more!!!
-- 💞️ I’m looking to collaborate on ... your mother
 - 📫 How to reach me ... don't
 
 <!---
