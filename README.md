@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @mgern
-- 👀 Reedo Spewart smells
-- 😶‍🌫️
-
-<!---
-mgern/mgern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+       _,met$$$$$gg.          
+    ,g$$$$$$$$$$$$$$$P.       
+  ,g$$P"     """Y$$.".        
+ ,$$P'              `$$$.     
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$    
+ $$P      d$'     ,    $$P    https://www.gernhoefer.com/
+ $$:      $$.   -    ,d$$'    
+ $$;      Y$b._   _,d$P'      
+ Y$$.    `.`"Y$$$$P"'         
+ `$$b      "-.__              
+  `Y$$                        
+   `Y$$.                      
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""
+```
